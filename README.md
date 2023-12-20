@@ -19,4 +19,4 @@ Uncertainty is 2.00998
 Ex. Usage with options<br>
 ./err_analysis.out -if "Example_Table/in.dat" -of "Example_Table/out.dat" -eq "(m+n)/(m-n)*(2*l/t^2)"
 
-See respective files for input/output results
+See Example_Table/in.dat and Example_Table/out.dat for the respective output
