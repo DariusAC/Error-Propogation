@@ -1,5 +1,7 @@
 # Error-Propogation
 
+Compiled with C++ 23
+
 This program parses equations and evalutes them and performs error propogation.
 
 Ex. Usage in Interactive Use
