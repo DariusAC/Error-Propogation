@@ -2,7 +2,7 @@
 
 Compiled with GNU C++ 23
 
-This program parses equations and evalutes them and performs error propogation.
+This program parses equations, evalutes them and approximates error propogation.
 
 Ex. Usage in Interactive Use
 ./err_analysis.out
